@@ -1,3 +1,7 @@
+# Day 1 Challenge:
+# Find 2 entries from a list that add up to 2020
+# Then find their product
+
 # test list
 test = [1721,979,366,299,675,1456]
 
